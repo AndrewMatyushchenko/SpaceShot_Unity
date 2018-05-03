@@ -51,7 +51,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\GhipController.cs" />
+     <Compile Include="Assets\Scripts\ShipController.cs" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>D:/Andrew/Unity/SpaceShot_Unity/SpaceShip/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
